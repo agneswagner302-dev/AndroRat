@@ -130,7 +130,12 @@ In the sh shell there are some sub commands
 * Generating APK
 <p align="center">
   <img src="Screenshots/6.JPG" width="800"/>
-</p>
+</p>git clone https://github.com/karma9874/AndroRAT.git
+cd AndroRAT
+pip install -r requirements.txt
+* to build the 
+commands </p> align="center">
+
 ------------------------------------------------------------------------------------------------------------------------------  
 
 * Some interpreter Commands 
